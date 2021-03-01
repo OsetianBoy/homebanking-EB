@@ -1,0 +1,3 @@
+El codigo de cuenta es " 2009 ".
+cuenta amiga 1 = 1234567
+cuenta amiga 2 = 7654321
